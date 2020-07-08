@@ -2,8 +2,10 @@
 
 IAA 计划，即 INPUT ANYTHING ANYWHERE 计划。
 
-该计划旨在为任何支持自定义的输入法和任何支持插件机制的软件提供
-ConL-IME 项目中各种语言的码表。从而实现能在任何地方输入任何文字和符号。
+该计划旨在为任何支持自定义词库的输入法和任何支持插件机制的软件提供
+[ConL-IME] 项目中各语言的码表。从而实现在任何地方能输入任何文字和符号。
+
+[ConL-IME]: https://github.com/aj-ash/ConL-IME
 
 ## 目标
 
@@ -68,21 +70,72 @@ ConL-IME 项目中各种语言的码表。从而实现能在任何地方输入�
 
 ### 其它
 
-+ [ ] [Online-Tool](Online-Tool/README.md)
-+ [ ] [Tampermonkey](Tampermonkey/README.md)
++ [ ] [Online-Tool](Others/Online-Tool/README.md)
++ [ ] [Tampermonkey](Others/Tampermonkey/README.md)
 
 ## 反馈与交流
 
 ### 反馈 Bug
 
-如果上述提供的输入插件或码表在使用过程中出现了问题，
-可通过 Issues 向我反馈。
+如果提供的输入码表或插件在使用过程中出现了问题，
+可通过 [Issues] 向我反馈。
 
 ### 请求 Feature
 
-如果你想要使用的输入法或者软件不在上述支持的列表中，
-可通过 Issues 请求添加新功能。
+如果你在使用的输入法或者软件不在上述支持的列表中，
+可通过 [Issues] 请求添加新功能。
 
 ### 社群
 
 暂无。
+
+[Issues]: https://github.com/aj-ash/IAA/issues
+
+## 相关项目
+
+### [ConL-Fonts]
+
+旨在提供风格统一、美观的人造语言字体。
+
+[ConL-Fonts]: https://github.com/aj-ash/ConL-Fonts
+
+### [ConL-IME]
+
+一款旨在为各种 **[人造语言]** 提供开箱即用、
+简便和各平台输入体验统一的输入法。
+
+[ConL-IME]: https://github.com/aj-ash/ConL-IME
+[人造语言]: https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E8%AF%AD%E8%A8%80
+
+### [ConL-Tutor]
+
+为各人造语言收集整理/翻译/撰写中文教程。
+
+[ConL-Tutor]: https://github.com/aj-ash/ConL-Tutor
+
+### [ConL.ME]
+
+以作者本人名字命名的人造语言。
+
+[ConL.ME]: https://github.com/aj-ash/ConL.ME
+
+### [CSUR]
+
+一个全新的分配 PUA 码位的志愿项目 (尽可能兼容现有的 (U)CSUR 项目)。
+
+[CSUR]: https://github.com/aj-ash/CSUR
+
+### [IAA]
+
+IAA 计划，即 INPUT ANYTHING ANYWHERE 计划。
+
+该计划旨在为任何支持自定义词库的输入法和任何支持插件机制的软件提供
+ConL-IME 项目中各语言的码表。从而实现在任何地方能输入任何文字和符号。
+
+[IAA]: https://github.com/aj-ash/IAA
+
+### [shupin]
+
+一款开箱即用、简便和各平台输入体验统一的四川话拼音输入法。
+
+[shupin]: https://github.com/aj-ash/shupin
